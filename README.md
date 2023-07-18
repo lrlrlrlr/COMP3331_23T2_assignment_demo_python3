@@ -9,7 +9,7 @@ Passcode: q.fB4W=2
     - Friday https://unsw.zoom.us/rec/share/QW2bp1dqryf12AapeplYAsuQLGRa0zGZeV-BvDawNfG11ofgVhJEX02Mrj3_PVFw.sHLaV-ZfJ2p2b_kQ 
 Passcode: WzKfI%?4
  - [Slides](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/blob/main/demo_w7/COMP33319331-Computer-Networks-and-Applications-Assignment.pdf)
- - [Codes](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main/demo_w7) 
+ - [Demo Codes for Client and Resolver](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main/demo_w7) 
  
 ## Week 8 Resources:
   - Recordings: (todo)
