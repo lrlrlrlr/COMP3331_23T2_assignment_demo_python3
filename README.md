@@ -12,4 +12,6 @@ Passcode: WzKfI%?4
  - [Codes](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main/demo_w7) 
  
 ## Week 8 Resources:
-  - Recordings: (todo)   
+  - Recordings: (todo)
+  - [Demo code for Error handling & DNS query Decoding](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main/demo_w8 )https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main/demo_w8
+  - useful reading: https://datatracker.ietf.org/doc/html/rfc1035#section-4.1.2  
