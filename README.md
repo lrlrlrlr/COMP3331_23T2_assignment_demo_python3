@@ -14,6 +14,13 @@ Passcode: WzKfI%?4
 ## Week 8 Resources:
   - Recordings:
     - Tuesday: https://unsw.zoom.us/rec/share/vdgVhMBupfEIWnDcl3UTfCEsD4zPavbn-koSJYPbjt9eRYm8LVHuBxSnPL4rGxc.Gs-xBbWE4PwiwH8i 
-Passcode: $r2mW8K%  
+Passcode: $r2mW8K%
+    - Friday: https://unsw.zoom.us/rec/share/nNuII75wdN_3wtI-lZTIdfEEdh88pRqpY5r7VEfOg0ooqG5WrPz0kwAPKw_IlDg.EP4VvPU1V2s1IQK4 
+Passcode: DQQG^?D7  
   - [Demo code for Error handling & DNS query Decoding](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main/demo_w8 )  
   - useful reading for DNS query encoding/decoding: https://datatracker.ietf.org/doc/html/rfc1035#section-4.1.2  
+
+## Week 9 Resources:
+  - Recordings:
+    - Tuesday: https://unsw.zoom.us/rec/share/lkjldPO__SeIualGb8yj-RBn_m6TJ6btVqfQoJv7GGu1T0CtPt6FSyeliXIixiRL.UG1N3ae_CyI2-rNn 
+Passcode: AQk=nF2z  
