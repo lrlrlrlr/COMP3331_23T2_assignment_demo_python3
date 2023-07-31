@@ -8,7 +8,7 @@ Here are some useful materials:
 - [final exam sample questions](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main#:~:text=Practice_Exam_Answers.pdf)
 
 
-
+## assignment help session  
 ![image](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/assets/27357380/bb49083a-078f-4b74-9d35-a92b0b8ba2c3)
 
 ## Week 7 Resources:
