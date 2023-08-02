@@ -6,8 +6,11 @@ Here are some useful materials:
 - [recording slides](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main#:~:text=comp3331_final_23T2_last.pdf)
 - [tut02 answers](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main#:~:text=tutorial%202%20answers.pdf)
 - [final exam sample questions](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/tree/main#:~:text=Practice_Exam_Answers.pdf)
-
-
+ - other useful stuff from last year:  
+   -  w6-w10 wrapup Recording: https://youtu.be/BoPMGeGf4LE 
+   -  review slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/9331review/slides_final_rev.pdf   
+   -  Useful material: https://github.com/lrlrlrlr/COMP3331_9331_21T3/tree/main/9331review/final
+	
 ## assignment help session  
 ![image](https://github.com/lrlrlrlr/COMP3331_23T2_assignment_demo_python3/assets/27357380/bb49083a-078f-4b74-9d35-a92b0b8ba2c3)
 
